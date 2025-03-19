@@ -1,0 +1,5 @@
+site_name: typingstats
+nav:
+  - Home: index.md
+  - Models: models.md
+  - Views: views.md
